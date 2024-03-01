@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-  page_title='Clubs',
-  page_icon='🛡️',
+  page_title='FIFA DASHBOARD - Clubs',
+  page_icon='⚽',
   layout='wide'
 )
 
